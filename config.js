@@ -1,8 +1,8 @@
-const nameGirl = 'Tuấn Nguyên';
+const nameGirl = 'Chào cô';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Happy bỉth day';
-const titleCard = 'Huỳnh Tuấn Nguyên';
-const contentCard = 'Bỏ Pu';
+const eventName = 'Happy wedding';
+const titleCard = 'Nguyễn Thị Cẩm Nhung';
+const contentCard = 'Chúc cô trăm năm hạnh phúc';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
